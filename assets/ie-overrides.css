@@ -1,0 +1,18 @@
+﻿/*!
+ * Layout: Campfire Responsive
+ * $Id: ie-overrides.less ie-overrides.less ie-overrides.less ie-overrides.less $
+ * Copyright Zeta Software GmbH  
+ */
+
+.zpieItem[data-area-name="Banner"] [data-context="container"] {
+  z-index: 6010;
+}
+.zpieItem[data-area-name="Banner"] [data-context="row"] {
+  z-index: 6020;
+}
+.zpieItem[data-area-name="Banner"] [data-context="column"] {
+  z-index: 6020;
+}
+.zpieItem[data-area-name="Banner"] [data-context="article"] {
+  z-index: 6030;
+}
